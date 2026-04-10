@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Página de login - Deve permitir ir para o index.php
+ * Estou a modificar o comentario Página de login - Deve permitir ir para o index.php
  */
 require $_SERVER['DOCUMENT_ROOT'] . '/database/connectDatabase.php';
 
